@@ -15,9 +15,13 @@ Shoud have: Good user interface for optimal user experience; High speed when run
 
 Could have: Create new state of the art model that beats previous best model
 
-Will not have: unsure at this stage, will update later.
+Will not have: unsure at this stage, will update later
 
 Created wireframe for website (https://www.figma.com/file/2qQgHB1fgEhSeKYf2WanMz/Level-4-Project?node-id=0%3A1)
+
+Read papers about model explanation
+
+found SHAP which is a python library similar to LIME
 
 # Questions:
 
@@ -27,6 +31,12 @@ Is my MoSCoW method accurate or does it need changing?
 
 Is there anything that needs changing in the wireframe that I created?
 
+Should I attempt to start creating the model or should I research more?
+
 # Future plans:
 
+Start building the model by utilizing some of the frameworks and libraries discussed. The plan is to set the foundation of the model.
+
 # discussion in meeting:
+
+To be added during the meeting
