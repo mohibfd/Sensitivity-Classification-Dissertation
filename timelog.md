@@ -1,9 +1,9 @@
 # Timelog
 
--  Visualising Important Sensitivity Classification Features
--  Mohib Akoum
--  2431135A
--  Graham McDonald
+-  Project Name: Visualising Important Sensitivity Classification Features
+-  Student Name: Mohib Akoum
+-  Student Id: 2431135A
+-  Supervisor Name: Graham McDonald
 
 ## Guidance
 
@@ -14,50 +14,51 @@
 
 ## Week 1
 
-### 2 oct 2021
+### 2 oct 2021 (8.5 hours)
 
--  _30 mins_ Setting up Trello and Zotero
--  _30 mins_ Setting up GitHub on computer
--  _90 mins_ Searching for most suitable machine learning framework
+-  _2 hours_ Read the project guidance notes
+-  _0.5 hour_ Setting up Trello and Zotero
+-  _0.5 hour_ Setting up GitHub on computer
+-  1.5 hours\_ Searching for most suitable machine learning framework
 
 ### 3 oct 2021
 
--  _60 mins_ Searching for most suitable machine learning framework
--  _180 mins_ Searching for most suitable front-end and back-end framework
+-  _1 hour_ Searching for most suitable machine learning framework
+-  _3 hours_ Searching for most suitable front-end and back-end framework
+
+## Week 2 (6.5 hours)
 
 ### 5 oct 2021
 
--  _60 mins_ Comparing react js with svelte
--  _30 mins_ Advisor meeting
-
-## Week 2
+-  _1 hour_ Comparing react js with svelte
+-  _0.5 hour_ Advisor meeting
 
 ### 9 oct 2021
 
--  _120 mins_ Reading papers about document sensitivity
+-  _2 hours_ Reading papers about document sensitivity
 
--  _60 mins_ Looking over lime and trying to decide web framework
+-  _1 hour_ Looking over lime and trying to decide web framework
 
--  _90 mins_ looking over machine learning frameworks (spacy, scikit-learn, textblob)
+-  _1.5 hours_ looking over machine learning frameworks (spacy, scikit-learn, textblob)
 
--  _30 mins_ Reading about e-commerce and setting up MoSCoW method
+-  _0.5 hour_ Reading about e-commerce and setting up MoSCoW method
+
+## Week 3 (3.5 hours)
 
 ### 14 oct 2021
 
--  _60 mins_ Setting up wireframe
+-  _1 hour_ Setting up wireframe (figma)
 
--  _90 mins_ Reading about explainable models
+-  _1.5 hour_ Reading about explainable models
 
--  _30 mins_ Reading about reinforcement learning
+-  _0.5 hour_ Reading about reinforcement learning
 
--  _30 mins_ Advisor meeting
-
-## Week 3
-
-(no hours as I was will)
+-  _0.5 hourmins_ Advisor meeting
 
 ## Week 4
 
-### 19 oct 2021
+### 19 oct 2021 (5 hours)
 
 -  _5 hours_ Organizing data and training model
+-  _0.5 hour_ Added timelog template to version control
+-  _0.5 hour_ Set up latex on my macbook
