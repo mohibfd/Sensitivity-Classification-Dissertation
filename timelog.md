@@ -53,12 +53,16 @@
 
 -  _0.5 hour_ Reading about reinforcement learning
 
--  _0.5 hourmins_ Advisor meeting
+-  _0.5 hour_ Advisor meeting
 
 ## Week 4
 
-### 19 oct 2021 (5 hours)
+### 19 oct 2021 (11 hours)
 
 -  _5 hours_ Organizing data and training model
--  _0.5 hour_ Added timelog template to version control
+-  _0.5 hour_ Added timelog template to version control (moved time logs from trello to github)
 -  _0.5 hour_ Set up latex on my macbook
+-  _0.5 hour_ Updating wireframe
+-  _1 hour_ Reading about LIME and SHAP
+-  _0.5 hour_ Pickling the dataset (automation)
+-  _3 hours_ Attempting to create visualisation for data (lime)
