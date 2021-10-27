@@ -55,14 +55,30 @@
 
 -  _0.5 hour_ Advisor meeting
 
-## Week 4
+## Week 4 (11 hours)
 
-### 19 oct 2021 (11 hours)
+### 19 oct 2021
 
 -  _5 hours_ Organizing data and training model
+
+### 24 oct 2021
+
 -  _0.5 hour_ Added timelog template to version control (moved time logs from trello to github)
 -  _0.5 hour_ Set up latex on my macbook
 -  _0.5 hour_ Updating wireframe
 -  _1 hour_ Reading about LIME and SHAP
 -  _0.5 hour_ Pickling the dataset (automation)
--  _3 hours_ Attempting to create visualisation for data (lime)
+-  _3 hours_ Attempting to create visualisation for data (LIME)
+
+## Week 5 (1.5 hours)
+
+### 25 oct 2021
+
+-  _1 hour_ Attempting to create visualisation for data (SHAP)
+-  _1 hour_ Improving LIME visualisation
+-  _0.5 hour_ automation
+
+### 27 oct 2021
+
+-  _0.5 hour_ cleaning up code
+-  _1 hour_ giving different inputs to test how lime works as well as saving lime's model
