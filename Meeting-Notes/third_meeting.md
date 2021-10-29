@@ -31,3 +31,18 @@ Should I change anything in the wireframe?
 Improve model's predictions
 
 Improve visualisation for both lime and shap
+
+provide initial overall general statistics about the collection itself, the distribution of sens vs non senti, types of classifiers.
+
+cross validation?
+
+if 5 cross validation which one will you choose
+multiple classifiers?
+
+get average score based on all 5 folds
+
+downsampling?
+
+start working on backend of website
+
+changing requirements?
