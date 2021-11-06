@@ -45,4 +45,6 @@ downsampling?
 
 start working on backend of website
 
+remove stopwords
+
 changing requirements?

@@ -70,7 +70,7 @@
 -  _0.5 hour_ Pickling the dataset (automation)
 -  _3 hours_ Attempting to create visualisation for data (LIME)
 
-## Week 5 (1.5 hours)
+## Week 5 (5.5 hours)
 
 ### 25 oct 2021
 
@@ -82,3 +82,34 @@
 
 -  _0.5 hour_ cleaning up code
 -  _1 hour_ giving different inputs to test how lime works as well as saving lime's model
+
+### 29 oct 2021
+
+-  _1 hour_ advisour meeting
+
+### 31 oct 2021
+
+-  _0.5 hour_ reading flask documentation
+
+## Week 5 (12 hours)
+
+### 1 nov 2021
+
+-  _3.5 hours_ doing documentation tutorial
+-  _0.5 hour_ setting up environment for jinja
+
+### 3 nov 2021
+
+-  _2.5 hours_ doing documentation tutorial
+
+### 4 nov 2021
+
+-  _1.5 hours_ writing tests following tutorial
+-  _1 hour_ debugging broken tests
+
+### 5 nov 2021
+
+-  _2.5 hours_ going over the entire tutorial codebase to understand it
+-  _0.5 hour_ reading about styling in css and html
+
+### 6 nov 2021
