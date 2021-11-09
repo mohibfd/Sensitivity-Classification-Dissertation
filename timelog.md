@@ -91,7 +91,7 @@
 
 -  _0.5 hour_ reading flask documentation
 
-## Week 5 (12 hours)
+## Week 5 (18 hours)
 
 ### 1 nov 2021
 
@@ -113,3 +113,14 @@
 -  _0.5 hour_ reading about styling in css and html
 
 ### 6 nov 2021
+
+-  _1.5 hours_ setting up the different urls for the website
+-  _1 hour_ attempting to add prebuilt models to flask
+-  _1 hour_ following lime/flask tutorial
+-  _1.5 hours_ attempting to add lime to project
+
+## Week 5 (0 hours)
+
+### 8 nov 2021
+
+-  _2.5 hours_ added lime visualisation into web page
