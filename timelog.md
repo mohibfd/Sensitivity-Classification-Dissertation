@@ -119,8 +119,9 @@
 -  _1 hour_ following lime/flask tutorial
 -  _1.5 hours_ attempting to add lime to project
 
-## Week 5 (0 hours)
+## Week 5 (4 hours)
 
 ### 8 nov 2021
 
 -  _2.5 hours_ added lime visualisation into web page
+-  _1.5 hours_ setting up github and gitignore for the data
