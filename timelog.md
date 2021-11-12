@@ -119,7 +119,7 @@
 -  _1 hour_ following lime/flask tutorial
 -  _1.5 hours_ attempting to add lime to project
 
-## Week 5 (6 hours)
+## Week 5 (6.5 hours)
 
 ### 8 nov 2021
 
@@ -130,3 +130,11 @@
 
 -  _1 hour_ cleaning up model's code and undersampling the data
 -  _1 hour_ attempting to set up sql database for document numbering
+-  _0.5 hour_ using user post request to change which document to view
+
+### 12 nov 2021
+
+-  _0.5 hour_ fixing navigation to point to correct page
+-  _0.5 hour_ adding css styling to confusion matrix
+-  _0.5 hour_ adding information about sensitivity classifier
+-  _0.5 hour_ advisor meeting
