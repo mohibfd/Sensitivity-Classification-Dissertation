@@ -119,7 +119,7 @@
 -  _1 hour_ following lime/flask tutorial
 -  _1.5 hours_ attempting to add lime to project
 
-## Week 5 (6.5 hours)
+## Week 5 (16.5 hours)
 
 ### 8 nov 2021
 
@@ -138,3 +138,10 @@
 -  _0.5 hour_ adding css styling to confusion matrix
 -  _0.5 hour_ adding information about sensitivity classifier
 -  _0.5 hour_ advisor meeting
+
+### 14 nov 2021
+
+-  _1 hour_ reading about state of the art nlp models
+-  _2 hours_ implementing distilBert
+-  _2.5 hours_ attempting to connect new model with lime
+-  _2.5 hours_ attempting to use bert with long documents
