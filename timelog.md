@@ -145,3 +145,26 @@
 -  _2 hours_ implementing distilBert
 -  _2.5 hours_ attempting to connect new model with lime
 -  _2.5 hours_ attempting to use bert with long documents
+
+## Week 6 (14.5 hours)
+
+### 16 nov 2021
+
+-  _1 hour_ reading about BERT and ToBERT
+-  _3.5 hours_ attempting to split body text into parts to make BERT work with long documents
+
+### 17 nov 2021
+
+-  _1 hour_ attempting to use longformer instead of bert
+-  _1 hour_ attempting to fix colab breaking because of ram
+
+### 18 nov 2021
+
+-  _3 hours_ attempting to use longformer instead of bert
+-  _1 hour_ attempting to use big bird
+
+### 19 nov 2021
+
+-  _1.5 hours_ trying to get probability from longformer
+-  _1 hour_ supervisor meeting
+-  _2 hours_ attempting to use bert on different data
