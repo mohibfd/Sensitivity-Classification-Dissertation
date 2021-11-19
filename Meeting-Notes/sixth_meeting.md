@@ -13,3 +13,13 @@ tried (longformer) long transformer
 tried longRoBERTa
 
 managed to get longformer working on the dataset but it has a bad f1 score and haven't tested it on lime yet
+
+# future data
+
+don't normalise test data
+
+randomly remove sensitive documents from your evaluation set so that the distribution is roughly 90% non sensitive and 10% sensitive and then apply my classifier to it again and see how the f1 score is
+
+give bert an other shot
+
+what is lime actually predicting?
