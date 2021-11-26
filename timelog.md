@@ -168,3 +168,20 @@
 -  _1.5 hours_ trying to get probability from longformer
 -  _1 hour_ supervisor meeting
 -  _2 hours_ attempting to use bert on different data
+
+## Week 7 (8.5 hours)
+
+### 23 nov 2021
+
+-  _2 hours_ attempting to get big bird model to work
+-  _1 hours_ attempting to get roberta model to work
+
+### 24 nov 2021
+
+-  _3 hours_ attempting to get classifier to work
+-  _1.5 hours_ testing bert with different inputs
+
+### 25 nov 2021
+
+-  _0.5 hours_ setting up bert data for demonstration
+-  _0.5 hours_ supervisor meeting
