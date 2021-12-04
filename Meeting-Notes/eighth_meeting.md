@@ -25,3 +25,9 @@ Website that is user friendly and displays useful information about the model's 
 Potentially refocus on model choice and improving the overall score.
 
 Ensure 100% testing for all the features of the website
+
+# discussion:
+
+ask about resources if they do not get sent?
+
+improve interpretability and add graphs etc..

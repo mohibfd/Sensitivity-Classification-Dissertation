@@ -181,7 +181,27 @@
 -  _3 hours_ attempting to get classifier to work
 -  _1.5 hours_ testing bert with different inputs
 
-### 25 nov 2021
+### 26 nov 2021
 
 -  _0.5 hours_ setting up bert data for demonstration
 -  _0.5 hours_ supervisor meeting
+
+## Week 9 (14 hours)
+
+### 1 dec 2021
+
+-  _2 hours_ attempting to get lime to work on big bird
+-  _2 hours_ attempting to get lime to work on longformer
+-  _1.5 hour_ testing lime on pretrained logistic regression model
+
+### 2 dec 2021
+
+-  _1 hour_ setting up lime with pre saved model on flask
+
+### 3 dec 2021
+
+-  _1 hour_ setting up cross validation with the data
+-  _0.5 hour _ supervisor meeting
+-  _2 hour_ implementing cross validation into flask
+-  _2 hours_ allowing user to see all of the documents that exist
+-  _2 hours_ fixing data imbalance with predictions
