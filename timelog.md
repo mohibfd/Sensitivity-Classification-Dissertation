@@ -234,9 +234,11 @@
 -  _1 hour_ attempting to remove stopwords from showing on lime and shap
 -  _1 hour_ improving frontend so it is easier to view single documents
 
-## Week 10 (3 hours)
+## Week 10 (6 hours)
 
 ### 14 dec 2021
 
 -  _2.5 hours_ setting up specific sensitivity pages
 -  _1 hour_ meeting with advisor
+-  _1.5 hours_ fixing indexing and shallow copying errors
+-  _1 hour_ fixing broken tests and adding new tests
