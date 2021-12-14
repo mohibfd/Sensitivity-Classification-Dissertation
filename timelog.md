@@ -205,3 +205,38 @@
 -  _2 hour_ implementing cross validation into flask
 -  _2 hours_ allowing user to see all of the documents that exist
 -  _2 hours_ fixing data imbalance with predictions
+
+## Week 10 (8.5 hours)
+
+### 9 dec 2021
+
+-  _1.5 hours_ fixing broken tests in main app
+-  _1.5 hours_ reaching 100% code coverage
+-  _ 1 hour_ attempting to implement shap
+
+### 10 dec 2021
+
+-  _ 1 hour_ basic shap implementation
+-  _ 1 hour_ changing vectorizer and removing stopwords
+
+### 12 dec 2021
+
+-  _ 1.5 hours_ making shap and lime vectorizer consistent
+-  _ 1 hour_ attempting to implement shap in html
+
+## Week 10 (6 hours)
+
+### 13 dec 2021
+
+-  _2 hours_ implementing shap in flask
+-  _1 hours_ improving frontend so it is easy to view document labels
+-  _1 hour_ attempting to remove stopwords from showing on lime and shap
+-  _1 hour_ attempting to remove stopwords from showing on lime and shap
+-  _1 hour_ improving frontend so it is easier to view single documents
+
+## Week 10 (3 hours)
+
+### 14 dec 2021
+
+-  _2.5 hours_ setting up specific sensitivity pages
+-  _1 hour_ meeting with advisor
