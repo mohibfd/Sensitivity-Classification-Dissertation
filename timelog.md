@@ -224,7 +224,7 @@
 -  _ 1.5 hours_ making shap and lime vectorizer consistent
 -  _ 1 hour_ attempting to implement shap in html
 
-## Week 10 (6 hours)
+## Week 11 (6 hours)
 
 ### 13 dec 2021
 
@@ -234,7 +234,7 @@
 -  _1 hour_ attempting to remove stopwords from showing on lime and shap
 -  _1 hour_ improving frontend so it is easier to view single documents
 
-## Week 10 (6 hours)
+## Week 12 (6 hours)
 
 ### 14 dec 2021
 
@@ -242,3 +242,17 @@
 -  _1 hour_ meeting with advisor
 -  _1.5 hours_ fixing indexing and shallow copying errors
 -  _1 hour_ fixing broken tests and adding new tests
+
+### 6 jan 2022
+
+-  _3 hours_ setting up ELI5
+
+### 7 jan 2022
+
+-  _2 hours_ setting up ELI5
+-  _3 hours_ changing vectorizer
+
+### 8 jan 2022
+
+-  _3 hours_ removing stop words from tfidf dictionary
+-  _2 hours_ setting up ELI5 on flask
