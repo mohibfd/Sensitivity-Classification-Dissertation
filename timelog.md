@@ -234,7 +234,7 @@
 -  _1 hour_ attempting to remove stopwords from showing on lime and shap
 -  _1 hour_ improving frontend so it is easier to view single documents
 
-## Week 12 (6 hours)
+## Week 12 (25 hours)
 
 ### 14 dec 2021
 
@@ -256,3 +256,10 @@
 
 -  _3 hours_ removing stop words from tfidf dictionary
 -  _2 hours_ setting up ELI5 on flask
+
+### 9 jan 2022
+
+-  _2 hours_ setting up ELI5 on all pages
+-  _1 hour_ setting up shap for main document info
+-  _1 hours_ setting up better confusion matrix
+-  _1 hours_ improving styling of website
