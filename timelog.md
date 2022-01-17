@@ -263,3 +263,16 @@
 -  _1 hour_ setting up shap for main document info
 -  _1 hours_ setting up better confusion matrix
 -  _1 hours_ improving styling of website
+
+## Week 13 (1 hour)
+
+### 12 jan 2022
+
+-  _0.5 hours_ preparing for meeting
+-  _0.5 hours_ meeting with advisor
+
+## Week 14 (2 hour)
+
+### 12 jan 2022
+
+-  _2 hours_ user can use dropdown to choose visualisation
