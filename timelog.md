@@ -271,8 +271,26 @@
 -  _0.5 hours_ preparing for meeting
 -  _0.5 hours_ meeting with advisor
 
-## Week 14 (2 hour)
+## Week 14 (7.5 hours)
 
 ### 12 jan 2022
 
 -  _2 hours_ user can use dropdown to choose visualisation
+-  _0.5 hours_ implemented for sens and non sens web pages as well
+-  _0.5 hours_ training different classifiers
+-  _2 hours_ user can now toggle between models
+-  _1 hour_ learning how to use CSS
+
+### 13 jan 2022
+
+-  _4 hours_ implementing CSS in website
+
+### 14 jan 2022
+
+-  _2.5 hours_ implementing CSS in website
+-  _0.5 hours_ advisor meeting
+-  _2 hours_ improving index page's css
+
+### 15 jan 2022
+
+-  _3 hours_ changing index and sign up and login css
