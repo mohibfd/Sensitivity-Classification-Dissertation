@@ -271,9 +271,9 @@
 -  _0.5 hours_ preparing for meeting
 -  _0.5 hours_ meeting with advisor
 
-## Week 14 (7.5 hours)
+## Week 14 (18 hours)
 
-### 12 jan 2022
+### 17 jan 2022
 
 -  _2 hours_ user can use dropdown to choose visualisation
 -  _0.5 hours_ implemented for sens and non sens web pages as well
@@ -281,16 +281,28 @@
 -  _2 hours_ user can now toggle between models
 -  _1 hour_ learning how to use CSS
 
-### 13 jan 2022
+### 18 jan 2022
 
 -  _4 hours_ implementing CSS in website
 
-### 14 jan 2022
+### 19 jan 2022
 
 -  _2.5 hours_ implementing CSS in website
 -  _0.5 hours_ advisor meeting
 -  _2 hours_ improving index page's css
 
-### 15 jan 2022
+### 20 jan 2022
 
 -  _3 hours_ changing index and sign up and login css
+
+## Week 15 (5 hours)
+
+### 25 jan 2022
+
+-  _1.5 hours_ beautifying index page
+
+### 26 jan 2022
+
+-  _2 hours_ seperating lime probabilities from text
+-  _1 hours_ beautifying explanation pages
+-  _0.5 hour_ supervisor meeting
