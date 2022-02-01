@@ -295,7 +295,7 @@
 
 -  _3 hours_ changing index and sign up and login css
 
-## Week 15 (5 hours)
+## Week 15 (14.5 hours)
 
 ### 25 jan 2022
 
@@ -306,3 +306,26 @@
 -  _2 hours_ seperating lime probabilities from text
 -  _1 hours_ beautifying explanation pages
 -  _0.5 hour_ supervisor meeting
+
+### 29 jan 2022
+
+-  _1 hour_ setting up boostrap
+-  _2.5 hours_ setting up navbar
+
+### 30 jan 2022
+
+-  _2.5 hours_ setting up spinners with js
+-  _1 hour_ improving index page and adding photos
+-  _2.5 hours_ adding navigation for user to change documents
+
+## Week 15 (7 hours)
+
+### 31 jan 2022
+
+-  _2 hours_ Making all navigation buttons function
+-  _1.5 hours_ Fixing broken tests
+-  _2.5 hours_ Attempting to set up CI/CD
+
+### 1 Feb 2022
+
+-  _1 hour_ Creating new tests
