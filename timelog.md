@@ -329,3 +329,8 @@
 ### 1 Feb 2022
 
 -  _1 hour_ Creating new tests
+
+### 2 Feb 2022
+
+-  _0.5 hours_ Using boostrap's dropdown buttons
+-  _1 hour_ supervisor meeting
