@@ -318,7 +318,7 @@
 -  _1 hour_ improving index page and adding photos
 -  _2.5 hours_ adding navigation for user to change documents
 
-## Week 15 (7 hours)
+## Week 15 (15.5 hours)
 
 ### 31 jan 2022
 
@@ -334,3 +334,19 @@
 
 -  _0.5 hours_ Using boostrap's dropdown buttons
 -  _1 hour_ supervisor meeting
+
+### 6 Feb 2022
+
+-  _0.5 hours_ implementing dropdown and pagination for other pages
+-  _1.5 hours_ improving pagination
+-  _3 hours_ attempting to set up shap with XGBoost
+-  _2 hours_ attempting to set up shap with SVM
+
+## Week 15 (12 hours)
+
+### 7 Feb 2022
+
+-  _3.5 hours_ implementing XGBoost in the website
+-  _3 hours_ automating files in the general info page to improve loading speed
+-  _1.5 hours_ attempting to set up SVM with shap
+-  _4 hours_ fixing issues with github version control
