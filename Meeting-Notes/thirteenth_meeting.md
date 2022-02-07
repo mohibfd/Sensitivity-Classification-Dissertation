@@ -83,3 +83,5 @@ Ask them how many terms in this document does the classifier think are important
 For example how long does it take them to respond to a question, how many term features in this document does the classifier think is important. As in count the number of terms highlighted. Having them enter that into the system is not really that important. So think of putting these in an online form.
 
 think about all of these questions and put them into a document, be as specific as you can. The easier it will be to do the evaluation, you will be quicker to identify things that are ambiguous and you will have a clear description of it in your disseration.
+
+allow user to reach end document
