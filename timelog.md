@@ -342,7 +342,7 @@
 -  _3 hours_ attempting to set up shap with XGBoost
 -  _2 hours_ attempting to set up shap with SVM
 
-## Week 15 (12 hours)
+## Week 15 (24 hours)
 
 ### 7 Feb 2022
 
@@ -350,3 +350,34 @@
 -  _3 hours_ automating files in the general info page to improve loading speed
 -  _1.5 hours_ attempting to set up SVM with shap
 -  _4 hours_ fixing issues with github version control
+
+### 8 Feb 2022
+
+-  _2 hours_ attempting to set up shap with SVM
+-  _0.5 hours_ training LSTM with dataset
+-  _2 hours_ setting up LSTM with shap
+-  _1 hour_ attempting to improve unbalanced classification of LSTM
+-  _0.5 hours_ showing each classifier's prediction in website.
+
+### 9 Feb 2022
+
+-  _1 hour_ implemented LSTM with LIME
+-  _0.5 hours_ attempting to fix data imbalance with LSTM
+-  _0.5 hours_ supervisor meeting
+-  _2 hours_ created balanced LSTM
+-  _0.5 hours_ cross validation for LSTM
+
+### 13 Feb 2022
+
+-  _3 hour_ fixing pickling issues with LSTM
+-  _3 hours_ attempting to add LSTM into the website
+
+## Week 15 (6.5 hours)
+
+### 14 Feb 2022
+
+-  _5 hours_ debugging issues to add LSTM
+
+### 15 Feb 2022
+
+-  _1.5 hours_ fully implementing LSTM inside website
