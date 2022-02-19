@@ -381,3 +381,15 @@
 ### 15 Feb 2022
 
 -  _1.5 hours_ fully implementing LSTM inside website
+-  _1 hour_ adding cross validation and shap to collection sensitivity analysis
+
+### 16 Feb 2022
+
+-  _1.5 hours_ setting up user study
+-  _0.5 hours_ advisor meeting
+
+### 17 Feb 2022
+
+-  _3.5 hours_ attempting to make lime and eli5 have similar visualisations
+-  _1 hours_ attempting to seperate shap table from text
+-  _1.5 hours_ making classifiers show same files
