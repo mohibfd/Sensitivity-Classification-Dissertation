@@ -372,7 +372,7 @@
 -  _3 hour_ fixing pickling issues with LSTM
 -  _3 hours_ attempting to add LSTM into the website
 
-## Week 15 (6.5 hours)
+## Week 15 (40 hours)
 
 ### 14 Feb 2022
 
@@ -393,3 +393,30 @@
 -  _3.5 hours_ attempting to make lime and eli5 have similar visualisations
 -  _1 hours_ attempting to seperate shap table from text
 -  _1.5 hours_ making classifiers show same files
+
+### 18 Feb 2022
+
+-  _1.5 hours_ searching for documents for user evaluation + inviting people for evaluation
+-  _0.5 hours_ refactoring code
+-  _9 hours_ attempting to make LIME SHAP and no highlighting get displayed with similar styling
+
+### 19 Feb 2022
+
+-  _2 hours_ attempting to implement lime weight visualisation into website
+-  _1 hours_ attempting to set up eli5 for all pages
+-  _0.5 hours_ showing which classifiers disagree
+
+### 20 Feb 2022
+
+-  _5 hours_ setting up eli5 for all classifiers
+-  _5 hours_ improving frontend
+
+## Week 16 (4.5 hours)
+
+### 21 Feb 2022
+
+-  _2 hours_ setting up eli5 for all classifiers
+-  _1 hour_ improving frontend
+-  _1.5 hours_ setting up user study questions
+
+### 22 Feb 2022
