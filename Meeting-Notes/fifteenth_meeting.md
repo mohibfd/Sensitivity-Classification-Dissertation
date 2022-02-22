@@ -32,7 +32,9 @@ Sensitive and non sensitive is where they do their tasks in.
 
 The other two can be used as a secondary filter to make it easier to see documents that any classifier says are sensitive or non sens
 
-So the disagreements are in the Sens and NOn sens explanations
+So the disagreements are in the Sens and Non sens explanations
 
 any document that any classifier says is sensitive goes there
 and vice versa for the other
+
+if you ask them to do a task, you can see whether they can get that task correct, see how long it takes them to do it, see which features they use to do it. You can log some numbers that you can make plots out. Collection level questions
