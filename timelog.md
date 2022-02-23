@@ -411,7 +411,7 @@
 -  _5 hours_ setting up eli5 for all classifiers
 -  _5 hours_ improving frontend
 
-## Week 16 (4.5 hours)
+## Week 16 (15 hours)
 
 ### 21 Feb 2022
 
@@ -420,3 +420,17 @@
 -  _1.5 hours_ setting up user study questions
 
 ### 22 Feb 2022
+
+-  _4 hours_ setting up user surveys and ethics checklist
+-  _2.5 hours_ setting up database for in website survey
+-  _2 hours_ fixing broken tests and refactoring code
+
+### 23 Feb 2022
+
+-  _1.5 hours_ removing sensitivities from sensitive documents
+-  _0.5 hours_ integrating the 5 survey documents into the website
+-  _0.5 hours_ automating shap visualisations for lstm to speed up loading
+-  _1 hour_ changing sens and non sens pages to display classifier disagreements
+-  _0.5 hours_ supervisor meeting
+-  _1 hours_ frontend improvements utilising supervisor feedback
+-  _1 hours_ combining ethics intro and outro with the two google forms into 1 big form with multiple sections
