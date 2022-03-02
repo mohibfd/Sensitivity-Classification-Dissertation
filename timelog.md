@@ -450,6 +450,11 @@
 
 -  _3 hours_ attempting to delpoy flask on heroku
 
-### 1 May 2022
+### 1 March 2022
 
 -  _10.5 hours_ attempting to delpoy flask on heroku
+
+### 2 March 2022
+
+-  _4 hours_ changing database to work for full delpoyment on heroku
+-  _0.5 hours_ supervisor meeting
