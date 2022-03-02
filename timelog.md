@@ -434,3 +434,22 @@
 -  _0.5 hours_ supervisor meeting
 -  _1 hours_ frontend improvements utilising supervisor feedback
 -  _1 hours_ combining ethics intro and outro with the two google forms into 1 big form with multiple sections
+
+### 24 Feb 2022
+
+-  _3 hours_ running user evaluation
+
+### 25 Feb 2022
+
+-  _1.5 hours_ running user evaluation
+-  _8 hours_ implementing improvements suggested by users
+
+## Week 17 (13.5 hours)
+
+### 28 Feb 2022
+
+-  _3 hours_ attempting to delpoy flask on heroku
+
+### 1 May 2022
+
+-  _10.5 hours_ attempting to delpoy flask on heroku
