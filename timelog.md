@@ -458,3 +458,7 @@
 
 -  _4 hours_ changing database to work for full delpoyment on heroku
 -  _0.5 hours_ supervisor meeting
+
+### 3 March 2022
+
+-  _5 hours_ changing database to PostgreSQL
