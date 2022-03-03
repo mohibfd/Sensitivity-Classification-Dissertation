@@ -444,7 +444,7 @@
 -  _1.5 hours_ running user evaluation
 -  _8 hours_ implementing improvements suggested by users
 
-## Week 17 (13.5 hours)
+## Week 17 (23 hours)
 
 ### 28 Feb 2022
 
