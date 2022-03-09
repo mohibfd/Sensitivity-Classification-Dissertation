@@ -444,7 +444,7 @@
 -  _1.5 hours_ running user evaluation
 -  _8 hours_ implementing improvements suggested by users
 
-## Week 17 (23 hours)
+## Week 17 (41 hours)
 
 ### 28 Feb 2022
 
@@ -462,3 +462,27 @@
 ### 3 March 2022
 
 -  _5 hours_ changing database to PostgreSQL
+
+### 4 March 2022
+
+-  _4 hours_ running user evaluation
+
+### 5 March 2022
+
+-  _1 hour_ running user evaluation
+-  _1 hour_ making improvements based on user response
+-  _3 hours_ writting dissertation
+
+### 6 March 2022
+
+-  _9 hours_ writting dissertation
+
+## Week 18 (8 hours)
+
+### 7 March 2022
+
+-  _8 hours_ writting dissertation
+
+### 9 March 2022
+
+-  _0.5 hours_ supervisor meeting
