@@ -477,7 +477,7 @@
 
 -  _9 hours_ writting dissertation
 
-## Week 18 (8 hours)
+## Week 18 (24.5 hours)
 
 ### 7 March 2022
 
@@ -486,3 +486,10 @@
 ### 9 March 2022
 
 -  _0.5 hours_ supervisor meeting
+-  _4 hours_ writting dissertation
+
+### 13 March 2022
+
+-  _12 hours_ writting dissertation
+
+## Week 19 (0 hours)
