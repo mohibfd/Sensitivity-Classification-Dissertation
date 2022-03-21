@@ -492,4 +492,30 @@
 
 -  _12 hours_ writting dissertation
 
-## Week 19 (0 hours)
+## Week 19 (40 hours)
+
+### 14 March 2022
+
+-  _11.5 hours_ writting dissertation
+
+### 15 March 2022
+
+-  _3.5 hours_ writting dissertation
+
+### 16 March 2022
+
+-  _0.5 hours_ supervisor meeting
+
+### 18 March 2022
+
+-  _1 hour_ writting dissertation
+
+### 19 March 2022
+
+-  _9 hours_ writting dissertation
+
+### 20 March 2022
+
+-  _14.5 hours_ writting dissertation
+
+## Week 20 (0 hours)
