@@ -518,4 +518,20 @@
 
 -  _14.5 hours_ writting dissertation
 
-## Week 20 (0 hours)
+## Week 20 (31.5 hours)
+
+### 21 March 2022
+
+-  _14 hours_ writting dissertation
+
+### 22 March 2022
+
+-  _13.5 hours_ writting dissertation
+
+### 23 March 2022
+
+-  _4.5 hours_ writting dissertation
+
+### 25 March 2022
+
+-  _0.5 hours_ writting dissertation
