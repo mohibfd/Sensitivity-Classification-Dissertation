@@ -19,7 +19,7 @@
 -  _2 hours_ Read the project guidance notes
 -  _0.5 hour_ Setting up Trello and Zotero
 -  _0.5 hour_ Setting up GitHub on computer
--  1.5 hours\_ Searching for most suitable machine learning framework
+-  _1.5 hours_ Searching for most suitable machine learning framework
 
 ### 3 oct 2021
 
@@ -542,3 +542,16 @@
 
 -  _2.5 hours_ writting dissertation
 -  _1 hour_ improving presentation
+
+### 29 March 2022
+
+-  _2.5 hour_ improving presentation
+-  _2.5 hours_ writting dissertation
+
+### 30 March 2022
+
+-  _17 hours_ writting dissertation
+
+### 31 March 2022
+
+-  _8 hours_ writting dissertation
