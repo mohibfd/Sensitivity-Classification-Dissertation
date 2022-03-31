@@ -2,10 +2,6 @@
 
 discuss software based
 
-add a sentence as to what it enables the user to do and htat it identifies documents that are difficult to judge and multiple explanations strategies
-
-what the added value is of multiple classifiers
-
 maybe I should say now, since it takes as input a collection of documents, it passes through a preprocessing step which does x yz. It's your first step, what I did, our preprocessing. The system should be the focus of. it is the system that takes in the data and does the preporcessing competing
 
 that's the experimental design, user study: experimental design
@@ -43,10 +39,10 @@ Go and check the marking guidelines, use that as a double check to make sure tha
 
 make 4 different bullet points groups for moscow
 
-add in a couple of points (1 or 2) from ther user study.
+add in a couple of points in future work (1 or 2) from ther user study.
 
 Your conclusion is a bit small
 
 Mention that you have 54 tests and that they all pass
 
-send dissertation at 10 am
+send dissertation draft at 10 am
