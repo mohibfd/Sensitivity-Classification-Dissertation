@@ -536,7 +536,7 @@
 
 -  _0.5 hours_ writting dissertation
 
-## Week 21 (3.5 hours)
+## Week 21 (46 hours)
 
 ### 28 March 2022
 
@@ -554,4 +554,8 @@
 
 ### 31 March 2022
 
--  _8 hours_ writting dissertation
+-  _16 hours_ writting dissertation
+
+### 1 April 2022
+
+-  _4.5 hours_ writting dissertation
